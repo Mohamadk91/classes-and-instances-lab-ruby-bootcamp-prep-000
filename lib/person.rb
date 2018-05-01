@@ -1,8 +1,7 @@
-class person
+class MyClass
 end
-  adele_goldberg = person.new
+  adele_goldberg = MyClass.new
   adele_goldberg
 
-   alan_kay = person.new
+   alan_kay = MyClass.new
    alan_kay
-
