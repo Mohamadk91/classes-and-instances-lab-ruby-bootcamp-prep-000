@@ -2,11 +2,10 @@ class Dog
 end
  
 fido = Dog.new
-fido
+fido #=> #<Dog:0x007fc52c2d7d20>
  
 snoopy = Dog.new
-snoopy
+snoopy #=> #<Dog:0x007fc52c2d4170>
  
 lassie = Dog.new
-lassie
-end
+lassie #=> #<Dog:0x007fc52c2cc588>
